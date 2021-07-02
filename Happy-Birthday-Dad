@@ -4,36 +4,36 @@
         <title>Happy Birthday Dad!</title>
         <meta charset="utf-8">
         <style>
-            body{
-            background-color: rgb(30, 255, 0);
-            border: 8px solid black;
-            border-radius: 16px;
-            font-family: cursive;
-            color: black;
+        	body{
+            	background-color: rgb(30, 255, 0);
+            	border: 8px solid black;
+            	border-radius: 16px;
+            	font-family: cursive;
+            	color: black;
             
-        }
-        
-        html {
-            background-color: blue;
-            padding-left: 3px;
-            padding-right: 3px;
-            padding-top: 3px;
-            padding-bottom: 3px;
-		}
-        .alignC {
-	    	text-align: center;
-		}
-        #great {
-            font-size: 1.5em;
-            font-style: italic;
-            color: red;
-        }
-        h1 {
-            font-size: 3.5em;
-        }
-        h2 {
-            font-size: 1.7em;
-        }
+        	}
+
+			html {
+				background-color: blue;
+				padding-left: 3px;
+				padding-right: 3px;
+				padding-top: 3px;
+				padding-bottom: 3px;
+			}
+			.alignC {
+				text-align: center;
+			}
+			#great {
+				font-size: 1.5em;
+				font-style: italic;
+				color: red;
+			}
+			h1 {
+				font-size: 3.5em;
+			}
+			h2 {
+				font-size: 1.7em;
+			}
         </style>
     </head>
     <body>
