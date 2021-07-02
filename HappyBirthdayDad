@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Happy Birthday Dad!</title>
+        <meta charset="utf-8">
+        <style>
+            body{
+            background-color: rgb(30, 255, 0);
+            border: 8px solid black;
+            border-radius: 16px;
+            font-family: cursive;
+            color: black;
+            
+        }
+        
+        html {
+            background-color: blue;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 3px;
+            padding-bottom: 3px;
+		}
+        .alignC {
+	    	text-align: center;
+		}
+        #great {
+            font-size: 1.5em;
+            font-style: italic;
+            color: red;
+        }
+        h1 {
+            font-size: 3.5em;
+        }
+        h2 {
+            font-size: 1.7em;
+        }
+        </style>
+    </head>
+    <body>
+        <h1 class="alignC">Happy Birthday Dad!</h1>
+        <div class="alignC">
+            <img src="https://media2.giphy.com/media/SvRB3yYA835Dj9s4Ey/giphy.gif?cid=ecf05e4765fc3isnwt5lp4jp575eqbc5pzt6ixq90onaps8w&rid=giphy.gif&ct=g" alt="Happy birthday gif" height="500">
+            <img src="https://i.giphy.com/media/l4FGBKMLzKNiXiUoM/giphy.webp" alt="Balloons" height="500">
+        </div>
+        <h2 class="alignC">Hope your day is as <span id="great">GREAT</span>as you!</h2>
+    </body>
+</html>
